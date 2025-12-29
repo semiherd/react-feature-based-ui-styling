@@ -1,0 +1,13 @@
+import { CardData } from "../types/type";
+
+export const data: CardData[]= [
+    { id: '1',owner: 'Adam Keller', source: 'call', message: 'I’m new in trading and I really like that Premier let me start small. I can trade crypto and few other assets easy. Withdrawls are quick too. Help Center is simple to use and I learned a lot from there.'},
+    { id: '2',owner: 'Lucas Vermeer', source: 'call', message: 'Premier works well for me. KYC was fast and support people (Thx milos!!) 🤗 helped me right away when I had a question. I was able to deposit and start trading in same day. Withdrawal came to my bank after 2 days. All smooth.'},
+    { id: '3',owner: 'David Lorens', source: 'email', message: 'Been using Premier for about 3 months now. Card deposits go through right away and show in balance within a minute. I withdraw my profit each month and it’s always in my bank by end of day. Very happy.'},
+    { id: '4',owner: 'Marco Lazzari', source: 'web', message: 'My experince with PM is perfect so far. Payouts come same day few hours max. Works good with both crypto and credit card. You can take money out many times per day and no hidden fees. Spreads are ok too 😊'},
+    { id: '5',owner: 'Petar Ilic', source: 'call', message: 'I think Premier’s trading cost are low compare to others. Spreads are good on most pairs, deposit is free, for withdraw they have a small fee but it’s fine. Thanks guys'},
+    { id: '6',owner: 'Marc "Clips" Renard', source: 'email', message: 'Premier is a serious broker. Web platform looks nice and runs good. Support reply quick and helpful. Sometimes small slippage in busy time but nothing crazy. Commisions are low so I stay here.'},
+    { id: '7',owner: 'Trade Ace92', source: 'call', message: 'Good service ☺️ Never had a single problem with withdraw. Usually takes under 24 hours. You get update when it’s submitted and when it’s done. Got many assets to trade and the spreads are not bad. And mT5  Thank you!'},
+    { id: '8',owner: 'Shivani Kaur', source: 'web', message: 'Multiple withdraws made, all success. Used both bank and international transfer. Also few friends joined from my referral and no issue for them. Been here long time, still all fine.'},
+    { id: '9',owner: 'Mateusz Durek', source: 'email', message: 'Deposit and withdraws are fast. One time my payout came before my bank even show the deduction lol. Trade speed is good and data feed fast too. Feels like pro level broker.'}
+];
