@@ -1,5 +1,5 @@
 import { Source,CardProps } from "../types/type";
-import { CardLayout } from "../CardLayout";
+import { CardLayout } from "./CardLayout";
 import Image from "next/image";
 import { forwardRef } from 'react';
 
